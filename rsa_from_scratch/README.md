@@ -49,21 +49,21 @@ Decrypt and print the original message
 
 To use a custom message, simply modify the message variable inside encrypt_decrypt.py.
 
- Files
+## Files
 keygen.py: Implements prime number generation using Miller-Rabin and RSA keypair generation.
 
 rsa.py: Contains encryption and decryption logic for RSA.
 
 encrypt_decrypt.py: Demonstrates the RSA workflow with a sample message.
 
- Design Choices
+## Design Choices
 Miller-Rabin Primality Test: Chosen for its efficiency in generating large primes, with 5 iterations for a low false-positive probability (< 4⁻⁵).
 
 Public Exponent: Uses e = 65537, a standard choice for balancing security and performance.
 
 Key Size: Defaults to 512 bits for demonstration, but can be adjusted in keygen.py.
 
- Security Notes
+## Security Notes
 This is an educational implementation of textbook RSA and should not be used in production. Limitations include:
 
  No Padding: Lacks secure padding schemes like OAEP, making it vulnerable to chosen-ciphertext attacks.
