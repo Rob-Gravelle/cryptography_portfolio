@@ -21,16 +21,18 @@ This project implements RSA public-key cryptography from the ground up using Pyt
 1. Clone the repository:
    ```bash
    git clone <github address when complete>
-Navigate to the project directory:
+
+## Navigate to the project directory:
 
 bash
 Copy
 Edit
 cd rsa-from-scratch
-Ensure Python 3.6+ is installed.
+
+## Ensure Python 3.6+ is installed.
 No external libraries are required (uses only the Python standard library).
 
- Usage
+## Usage
 Run the demo script to see RSA in action:
 
 bash
