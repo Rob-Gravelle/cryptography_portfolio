@@ -21,12 +21,11 @@ A Python implementation of RSA public-key cryptography, built from the ground up
 1. Clone the repository:
    ```bash
    git clone https://github.com/Rob-Gravelle/cryptography_portfolio.git
-
-Navigate to the RSA project directory:
+2. Navigate to the RSA project directory:
 bash
 
 cd cryptography_portfolio/rsa_from_scratch
-
+3. 
 Ensure Python 3.6+ is installed. No external dependencies are required (uses only the Python standard library).
 
 ## Usage
