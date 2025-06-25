@@ -43,7 +43,7 @@ A full RSA implementation written in pure Python, featuring:
 
 - Reinforce cryptographic math (modular arithmetic, number theory)
 - Demystify black-box libraries by rebuilding core primitives
-- Prepare for security certifications like **ECES**, **OSCE3**, or **Cryptography I (Stanford)**
+- Security certifications like **ECES**, **OSCE3**
 - Showcase technical depth to potential employers
 
 ---
