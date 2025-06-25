@@ -56,7 +56,7 @@ This repository is licensed under the [MIT License](./rsa_from_scratch/LICENSE).
 
 ##  Contact
 
-Feel free to connect via [LinkedIn](https://www.linkedin.com/in/robgravelle) or check out the full [Security Projects Index](https://github.com/Rob-Gravelle).
+Feel free to connect via [LinkedIn](https://www.linkedin.com/in/robert-gravelle-27a10a6a/) or check out the full [Security Projects Index](https://github.com/Rob-Gravelle).
 
 ---
 
