@@ -1,7 +1,8 @@
 # RSA From Scratch
 
 ![Python](https://img.shields.io/badge/python-3.6%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
+[![License: MIT](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
+
 
 A Python implementation of RSA public-key cryptography, built from the ground up to demonstrate prime generation, key creation, and encryption/decryption with PKCS#1 v1.5 padding. This project is part of my [cryptography portfolio](https://github.com/Rob-Gravelle/cryptography_portfolio) and is intended for educational purposes.
 
