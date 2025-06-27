@@ -1,0 +1,8 @@
+# requirements.txt
+
+# PyCryptodome for reference AES implementation and padding
+pycryptodome==3.20.0
+
+# Matplotlib and NumPy for state visualization
+matplotlib==3.8.4
+numpy==1.26.4
