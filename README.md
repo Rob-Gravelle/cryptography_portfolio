@@ -57,6 +57,8 @@ A historically accurate simulator of the WWII-era **Lorenz SZ42 cipher machine**
 - Informational report included: cryptanalysis history, Colossus, and modern relevance  
 [Explore Lorenz Cipher →](./lorenz-cipher)
 
+---
+
 ###  `password_hashing_benchmarks`
 A rigorous benchmark of password hashing algorithms:
 
@@ -68,7 +70,7 @@ A rigorous benchmark of password hashing algorithms:
 
 ---
 
-## 🔭 Upcoming Modules
+##  Upcoming Modules
 
 | Module                  | Description                                          | Status      |
 |-------------------------|------------------------------------------------------|-------------|
