@@ -57,15 +57,26 @@ A historically accurate simulator of the WWII-era **Lorenz SZ42 cipher machine**
 - Informational report included: cryptanalysis history, Colossus, and modern relevance  
 [Explore Lorenz Cipher →](./lorenz-cipher)
 
+###  `password_hashing_benchmarks`
+A rigorous benchmark of password hashing algorithms:
 
-## Upcoming Modules
+- Compares **Argon2id**, **bcrypt**, and **PBKDF2-HMAC-SHA256**
+- Measures average hashing time, memory usage, and output length
+- Includes V1 report + planned V2 (cross-platform + GPU attack simulation)
+- Demonstrates iterative refinement in cryptographic benchmarking  
+🔗 [Explore Password Hashing Benchmarks →](password_hashing_benchmarks)
 
-| Module                      | Description                                      | Status     |
-|-----------------------------|--------------------------------------------------|------------|
-| `password_hashing_benchmarks` | Compare Argon2, bcrypt, PBKDF2                   | 🔜 Planned |
-| `crypta_msg_protocol`       | Design a secure custom messaging protocol        | 🔜 Planned |
-| `pqc_playground`            | Play with post-quantum schemes (Kyber, NTRU, etc.) | 🔜 Planned |
-| `math_theory_demos`         | ECC, Finite Fields, Lattices, Number Theory      | 🔜 Planned |
+---
+
+## 🔭 Upcoming Modules
+
+| Module                  | Description                                          | Status      |
+|-------------------------|------------------------------------------------------|-------------|
+| `crypta_msg_protocol`   | Design a secure custom messaging protocol            | 🔜 Planned  |
+| `pqc_playground`        | Post-quantum schemes (Kyber, NTRU, Dilithium, etc.)  | 🔜 Planned  |
+| `math_theory_demos`     | ECC, finite fields, lattices, and number theory demos| 🔜 Planned  |
+
+---
 
 ---
 
