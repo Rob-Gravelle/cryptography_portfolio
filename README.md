@@ -46,6 +46,18 @@ A secure AES-256 encryption GUI with file support:
 
 ---
 
+---
+
+### [`lorenz_cipher`](./lorenz_cipher)
+A historically accurate simulator of the WWII-era **Lorenz SZ42 cipher machine**, featuring:
+- χ (chi), ψ (psi), and μ (mu) wheels with correct wheel lengths
+- XOR-based stream cipher logic with parity-based keystream bits
+- CLI for message encryption/decryption with reproducible seeds
+- Wheel configuration save/load system (JSON) to simulate key sheets
+- Informational report included: cryptanalysis history, Colossus, and modern relevance  
+[Explore Lorenz Cipher →](./lorenz_cipher)
+
+
 ## Upcoming Modules
 
 | Module                      | Description                                      | Status     |
