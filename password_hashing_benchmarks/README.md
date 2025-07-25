@@ -19,8 +19,8 @@ The project is structured in three versions, each building on the previous to ad
   - Provides initial recommendations (e.g., Argon2id for modern systems).
   - Notes limitations, such as Windows-only testing and psutil’s memory tracking constraints.
 - **Files**:
-  - [Password_Hashing_Benchmarks.pdf](v1/Password%20Hashing%20Benchmarks.pdf)
-  - [Code](v1/benchmark_utils.py) (Python script for benchmarking)
+  - [Password_Hashing_Benchmarks.pdf](V1/Password%20Hashing%20Benchmarks.pdf)
+  - [Code](V1/benchmark_utils.py) (Python script for benchmarking)
 - **Limitations**: Limited test parameter ranges, single-platform testing, and lack of attack simulations.
 
 ### V2: Enhanced Benchmark
