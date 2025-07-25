@@ -55,7 +55,7 @@ A historically accurate simulator of the WWII-era **Lorenz SZ42 cipher machine**
 - CLI for message encryption/decryption with reproducible seeds
 - Wheel configuration save/load system (JSON) to simulate key sheets
 - Informational report included: cryptanalysis history, Colossus, and modern relevance  
-[Explore Lorenz Cipher →](./lorenz_cipher)
+[Explore Lorenz Cipher →](./lorenz-cipher)
 
 
 ## Upcoming Modules
