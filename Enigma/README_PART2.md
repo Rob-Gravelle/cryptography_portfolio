@@ -1,11 +1,11 @@
 
-\# 🔐 The Enigma Key Space
+\#  The Enigma Key Space
 
 ## A Mathematical and Statistical Analysis of Brute-Force Impossibility
 
 ------------------------------------------------------------------------
 
-## 📜 Overview
+##  Overview
 
 The German Enigma cipher machine achieved its perceived security through
 combinatorial explosion.\
@@ -29,9 +29,9 @@ This project demonstrates:
 
 ------------------------------------------------------------------------
 
-## 🧮 Mathematical Key Space Breakdown
+##  Mathematical Key Space Breakdown
 
-### 1️⃣ Rotor Selection (Walzenlage)
+### 1️ Rotor Selection (Walzenlage)
 
 From 5 rotors:
 
@@ -47,7 +47,7 @@ $$
 
 ------------------------------------------------------------------------
 
-### 2️⃣ Initial Rotor Positions (Grundstellung)
+### 2️ Initial Rotor Positions (Grundstellung)
 
 $$
 26^3 = 17,576
@@ -55,7 +55,7 @@ $$
 
 ------------------------------------------------------------------------
 
-### 3️⃣ Ring Settings (Ringstellung)
+### 3️ Ring Settings (Ringstellung)
 
 All three ring settings affect the internal wiring offset:
 
@@ -77,7 +77,7 @@ $$
 
 ------------------------------------------------------------------------
 
-### 4️⃣ Plugboard (Steckerbrett)
+### 4️ Plugboard (Steckerbrett)
 
 For 10 plug pairs:
 
@@ -90,7 +90,7 @@ $$
 
 ------------------------------------------------------------------------
 
-## 🔢 Total Practical Key Space
+##  Total Practical Key Space
 
 $$
 60 \times 17,576 \times 676 \times 150{,}738{,}274{,}937{,}250
@@ -105,7 +105,7 @@ $$
 
 ------------------------------------------------------------------------
 
-## 💻 Brute‑Force Reality Check
+##  Brute‑Force Reality Check
 
 At:
 
@@ -126,7 +126,7 @@ constraints.
 
 ------------------------------------------------------------------------
 
-# 🔎 v2: Statistical Collapse of Key Space
+#  v2: Statistical Collapse of Key Space
 
 **Key Insight:**
 
@@ -153,7 +153,7 @@ We search the **fitness landscape**.
 
 ------------------------------------------------------------------------
 
-# 🧠 v4 (Planned): ML‑Guided Cryptanalysis
+#  v4 (Planned): ML‑Guided Cryptanalysis
 
 v4 explores replacing hand‑weighted n‑grams with:
 
@@ -175,7 +175,7 @@ After decrypting confirmed messages we can:
 
 ------------------------------------------------------------------------
 
-## 📊 Theoretical Maximum Key Space (Clarified)
+##  Theoretical Maximum Key Space (Clarified)
 
 Often cited value:
 
@@ -200,7 +200,7 @@ Large --- but structurally exploitable.
 
 ------------------------------------------------------------------------
 
-# 🎯 Core Takeaway
+#  Core Takeaway
 
 Security based purely on combinatorics is fragile when structure exists.
 
@@ -215,5 +215,5 @@ It was broken by:
 
 ------------------------------------------------------------------------
 
-Robert Gravelle\
-*Mathematicians in Cryptography Project*
+Robert Gravelle
+
